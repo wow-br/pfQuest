@@ -2,6 +2,7 @@
 ## Title: |cff33ffccpf|cffffffffQuest
 ## Author: Shagu
 ## Notes: A Questhelper and Database
+## Notes-ptBR: Um auxiliar de missões e banco de dados
 ## Notes-ruRU: Облегченный помощник заданий и база данных
 ## Version: 7.0.1
 ## OptionalDeps: pfUI
