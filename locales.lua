@@ -191,6 +191,7 @@ local locales = {
     ["Use <Shift>-Click To Remove Nodes"] = "Use <Shift>-Clique para Remover os Nós",
     ["Use Cut-Out Minimap Node Icons"] = "Utilizar Ícones Vazados nos Nós no Minimapa",
     ["Use Cut-Out World Map Node Icons"] = "Utilizar Ícones Vazados nos Nós no Mapa-Múndi",
+    ["Use Icons For Tracking Nodes"] = "Utilizar Ícones para Rastreamendo de Nós",
     ["Use Monochrome Cluster Icons"] = "Utilizar Ícones Agrupados Monocromáticos",
     ["Use Quest Item at |cff33ffcc%s|r"] = "Usar Item de Missão em |cff33ffcc%s|r",
     ["Use |cff33ffcc%s|r at |cff33ffcc%s|r"] = "Usar |cff33ffcc%s|r em |cff33ffcc%s|r",
